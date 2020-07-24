@@ -15,7 +15,7 @@ The dataset can be downloaded from [here](https://www.cancerimagingarchive.net/)
 
 ### Our network architecture
 
-![results](images/img1.png)
+![results](images/img2.png)
 
 ## Algorithm
 
