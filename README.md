@@ -3,6 +3,21 @@ Code for the paper `Generate High Fidelity Images With Generative Variational Au
 
 Link to [Paper](https://abhinavsagar.github.io/files/gvae.pdf).
 
+## Abstract
+
+In this work, we address the problem of blurred images which are often generated
+using Variational Autoencoders and the problem of mode collapse in Generative
+Adversarial Networks using a single model architecture. We use the encoder of
+VAE as it is while replacing the decoder with a discriminator. The encoder is fed
+data from a normal distribution while the generator is fed that from a gaussian
+distribution. The combination from both is then fed to a discriminator which tells
+whether the generated images are correct or not. We evaluate our network on 3
+different datasets: MNIST, fashion MNIST and TCIA Pancreas CT dataset. On
+training the model for 300 iterations, it was able to generate much sharper images
+as compared to those of VAEs. This work is potentially very exciting as we are
+able to combine the advantages of generative models and inference models in a
+bayesian manner.
+
 ## Data
 
 The dataset can be downloaded from [here](https://www.cancerimagingarchive.net/).
