@@ -3,6 +3,9 @@ Code for the paper `Generate High Fidelity Images With Generative Variational Au
 
 Link to [Paper](https://abhinavsagar.github.io/files/gvae.pdf).
 
+Link to [Blog](https://towardsdatascience.com/generative-variational-autoencoder-for-high-resolution-image-synthesis-48dd98d4dcc2).
+
+
 ## Abstract
 
 In this work, we address the problem of blurred images which are often generated
