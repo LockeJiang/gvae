@@ -1,9 +1,9 @@
 # Generate High Fidelity Images With Generative Variational Autoencoder
 Code for the paper `Generate High Fidelity Images With Generative Variational Autoencoder`.
 
-Link to [https://abhinavsagar.github.io/files/gvae.pdf](https://abhinavsagar.github.io/files/gvae.pdf).
+Link to [Paper](https://abhinavsagar.github.io/files/gvae.pdf).
 
-Link to [https://towardsdatascience.com/generative-variational-autoencoder-for-high-resolution-image-synthesis-48dd98d4dcc2](https://towardsdatascience.com/generative-variational-autoencoder-for-high-resolution-image-synthesis-48dd98d4dcc2).
+Link to [Blog](https://towardsdatascience.com/generative-variational-autoencoder-for-high-resolution-image-synthesis-48dd98d4dcc2).
 
 
 ## Abstract
