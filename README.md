@@ -59,9 +59,17 @@ The dataset can be downloaded from [here](https://www.cancerimagingarchive.net/)
 
 ## Results
 
-### Generated images a) MNIST b) Fashion MNIST c) TCIA Pancreas CT
+### 1024 × 1024 images generated using the CELEBA-HQ dataset.
 
-![results](images/img7.png)
+![results](images/g1.png)
+
+### 256 × 256 images generated using LSUN BEDROOM dataset
+
+![results](images/g2.png)
+
+### Sample 256 × 256 images generated from different LSUN categories
+
+![results](images/g3.png)
 
 ### Generated MNIST images a) GAN b) WGAN c) VAE d) GVAE
 
