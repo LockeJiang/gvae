@@ -1,5 +1,5 @@
-# Generate High Fidelity Images With Generative Variational Autoencoder
-Code for the paper `Generate High Fidelity Images With Generative Variational Autoencoder`.
+# Generate High Resolution Images With Generative Variational Autoencoder
+Code for the paper `Generate High Resolution Images With Generative Variational Autoencoder`.
 
 Link to [Paper](https://abhinavsagar.github.io/files/gvae.pdf).
 
